@@ -1,0 +1,1 @@
+export const FILM_VALIDATION_LIMIT = 100;
